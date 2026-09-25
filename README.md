@@ -4,7 +4,7 @@
 
 I'm a **Web, Mobile and Cloud Computing** student at the **University of Beira Interior (UBI)**, Portugal.
 
-I'm currently focused on **web development**, with a particular interest in **JavaScript and TypeScript**. Throughout my degree, I've been developing projects involving both frontend and backend development, working with REST APIs, databases, authentication systems and responsive web interfaces.
+I'm currently focused on **web development**. Throughout my degree, I've been developing projects involving both frontend and backend development, working with REST APIs, databases, authentication systems and responsive web interfaces.
 
 I'm an ambitious person who is always looking for opportunities to learn more, improve my skills and challenge myself with new technologies and projects. I enjoy learning through practice and understanding how the different parts of an application work together — from the user interface to the server and database.
 
@@ -67,58 +67,6 @@ Built with:
 - HTML, CSS and JavaScript
 
 The application supports complete CRUD operations, task completion and a weekly calendar interface for organizing tasks.
-
----
-
-## 🚧 Currently Working On
-
-I'm currently working on new academic projects that are allowing me to explore technologies and development practices beyond the projects I've already completed.
-
-### ⚙️ XOps & CI/CD Project
-
-I'm currently developing a project focused on **XOps and software delivery automation**, where the goal is to design and implement a complete CI/CD pipeline while integrating testing, security, code quality and observability practices.
-
-This project is introducing me to technologies and concepts such as:
-
-- **Git & GitHub** for version control and collaboration
-- **GitHub Actions** for CI/CD automation
-- **Docker** for containerization
-- **Node.js & Express** for backend development
-- **MongoDB** for data persistence
-- **Jest & Supertest** for automated testing
-- **SonarQube / SonarCloud** for code quality analysis
-- **OWASP ZAP** for security testing
-- **SAST & DAST** security practices
-- **AI-assisted quality gates**
-- **Prometheus & Grafana** for monitoring and observability
-- **Scrum** and agile development practices
-
-The main objective is not only to build an application, but also to understand the complete software lifecycle — from development and testing to security, deployment and monitoring.
-
----
-
-### 🗺️ Feature Request & Product Roadmap Management System
-
-I'm also working on a **Software Engineering** project focused on building a platform for managing feature requests and product roadmaps.
-
-The system will allow users to submit and interact with feature requests while providing tools to organize, evaluate and prioritize them.
-
-The project will involve:
-
-- **Frontend and backend development**
-- Feature request creation and management
-- Categories and organization of requests
-- Voting and commenting systems
-- User authentication and management
-- Product roadmap management
-- **AI-assisted feature prioritization**
-- Generation of **user stories and acceptance criteria**
-- REST API development
-- Database integration
-- Software architecture and engineering practices
-- Collaborative development using **Git & GitHub**
-
-This project is giving me the opportunity to work on a more complete software engineering workflow, from requirements and architecture to implementation and project management.
 
 ---
 
